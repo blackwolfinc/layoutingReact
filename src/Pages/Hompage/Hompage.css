@@ -1,0 +1,7 @@
+.tes{
+    background: url(../../Assets/Img/background.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 30rem ;
+    width: 100%;
+}
